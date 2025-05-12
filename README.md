@@ -25,4 +25,12 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
