@@ -17,6 +17,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | ------- |
 | [0001-two-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -44,4 +45,5 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
