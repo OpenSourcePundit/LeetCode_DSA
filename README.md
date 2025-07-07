@@ -45,6 +45,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -62,4 +63,12 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
