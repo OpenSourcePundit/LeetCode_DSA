@@ -19,6 +19,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
