@@ -16,6 +16,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0283-move-zeroes) |
@@ -67,6 +69,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
