@@ -24,6 +24,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0213-house-robber-ii](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -75,6 +76,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
