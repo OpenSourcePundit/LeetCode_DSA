@@ -19,6 +19,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0015-3sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0198-house-robber) |
@@ -77,6 +78,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0062-unique-paths](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0416-partition-equal-subset-sum) |
