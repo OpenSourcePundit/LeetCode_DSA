@@ -19,6 +19,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0015-3sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
@@ -39,6 +40,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0792-binary-search) |
 ## String
@@ -96,5 +98,6 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
