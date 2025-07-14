@@ -29,6 +29,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0416-partition-equal-subset-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0792-binary-search) |
+| [0967-minimum-falling-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0198-house-robber](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -94,4 +96,5 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
