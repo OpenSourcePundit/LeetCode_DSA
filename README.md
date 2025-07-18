@@ -28,6 +28,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0213-house-robber-ii](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0792-binary-search) |
 ## String
 |  |
@@ -67,11 +69,13 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0075-sort-colors](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
