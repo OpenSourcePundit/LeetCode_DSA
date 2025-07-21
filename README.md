@@ -111,4 +111,20 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0967-minimum-falling-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
