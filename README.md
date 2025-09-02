@@ -127,4 +127,16 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0207-course-schedule) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
