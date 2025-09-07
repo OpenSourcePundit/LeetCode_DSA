@@ -18,6 +18,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 | [0001-two-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0075-sort-colors) |
@@ -59,6 +60,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0189-rotate-array) |
@@ -108,6 +110,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0967-minimum-falling-path-sum) |
