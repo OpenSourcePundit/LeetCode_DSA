@@ -41,6 +41,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0812-rotate-string](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -60,6 +62,7 @@ Starting DSA practice for 2024 for better grasp and revision of concepts. Repo h
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OpenSourcePundit/LeetCode_DSA/tree/master/0070-climbing-stairs) |
